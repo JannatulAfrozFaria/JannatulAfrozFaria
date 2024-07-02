@@ -10,7 +10,7 @@ I am an adaptive and hardworking web developer with a keen eye for detail and a 
   
 # 💻 Technologies I Know
 <div style="display: flex;">
-        <img src="https://i.ibb.co/6mXsJgx/html-5-icon-726x1024-evem6gg5.png" alt="HTML" style="width: 26px; margin-right: 10px;">
+        <img src="https://i.ibb.co/6mXsJgx/html-5-icon-726x1024-evem6gg5.png" alt="HTML" style="width: 28px; margin-right: 10px;">
         <img src="https://i.ibb.co/mRr6Rgs/css.png" alt="CSS" style="width: 40px; margin-right: 10px;">
         <img src="https://i.ibb.co/q12wPdr/js.png" alt="JS" style="width: 40px; margin-right: 10px;">
         <img src="https://i.ibb.co/RPXxDxG/tailwind.png" alt="TAILWIND" style="width: 40px; margin-right: 10px;">
