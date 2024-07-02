@@ -27,5 +27,4 @@ I am an adaptive and hardworking web developer with a keen eye for detail and a 
 - ✨ fun fact - I love to travel and I can speak 3 languages(Bangla, English, Hindi)
 
 
-## GitHub Stats
-<img src="https://github-readme-stats-for-vercel-tau.vercel.app/" alt="" />
+
