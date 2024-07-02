@@ -1,4 +1,7 @@
-I am a web Developer.
+<img src="https://i.ibb.co/ngwSP34/customised-Banner.png" alt="" />
+
+# 💻 Technologies I Know
+
 
 
 # 📜 Current Overview
