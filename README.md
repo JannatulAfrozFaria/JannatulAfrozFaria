@@ -25,3 +25,7 @@ I am an adaptive and hardworking web developer with a keen eye for detail and a 
 - 🌱 I'm exploring Next.js.
 - 🔎 I'm looking for a remote job opportunity
 - ✨ fun fact - I love to travel and I can speak 3 languages(Bangla, English, Hindi)
+
+
+## GitHub Stats
+<img src="https://github-readme-stats-for-vercel-tau.vercel.app/" alt="" />
