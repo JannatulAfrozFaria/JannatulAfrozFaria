@@ -4,9 +4,9 @@
 I am an adaptive and hardworking web developer with a keen eye for detail and a passion for creating seamless user experiences. I thrive in collaborative environments, bringing creative solutions and strong problem-solving skills to every project. Continuously self-motivated, I stay updated with the latest industry trends and technologies. With excellent communication and analytical skills, I am dedicated to delivering high-quality, customer-focused solutions that exceed expectations. My commitment to excellence and continuous improvement drives me to produce clean, efficient, and effective code.
 
 # Language Used
-- <img src="https://i.ibb.co/6mXsJgx/html-5-icon-726x1024-evem6gg5.png" alt="HTML" style="width: 20px; margin-right: 10px;">  HTML
-- <img src="https://i.ibb.co/mRr6Rgs/css.png" alt="CSS" style="width: 20px; margin-right: 10px;"> CSS
-- <img src="https://i.ibb.co/q12wPdr/js.png" alt="JS" style="width: 20px; margin-right: 10px;"> Javascipt
+- <img src="https://i.ibb.co/Wy1G7ym/images.png" alt="HTML" style="width: 20px; margin-right: 10px;">  HTML
+- <img src="https://i.ibb.co/09SwcH0/css-2.png" alt="CSS" style="width: 20px; margin-right: 10px;"> CSS
+- <img src="https://i.ibb.co/XjFjs07/js2.png" alt="JS" style="width: 20px; margin-right: 10px;"> Javascipt
   
 # 💻 Technologies I Know
 <div  align='left' style="display: flex; margin-top: 100px; margin-bottom: 100px;">
