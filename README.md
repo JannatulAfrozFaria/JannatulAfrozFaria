@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/ngwSP34/customised-Banner.png" alt="" />
+<img src="https://i.ibb.co/SPPV45G/custom-banner-jannatul-afroz-faria.png" alt="" />
 
 # 💻 Technologies I Know
 
