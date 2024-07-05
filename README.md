@@ -14,7 +14,10 @@ I am an adaptive and hardworking web developer with a keen eye for detail and a 
         <img src="https://i.ibb.co/mRr6Rgs/css.png" alt="CSS" style="width: 40px; margin-right: 10px;">
         <img src="https://i.ibb.co/q12wPdr/js.png" alt="JS" style="width: 40px; margin-right: 10px;">
         <img src="https://i.ibb.co/RPXxDxG/tailwind.png" alt="TAILWIND" style="width: 40px; margin-right: 10px;">
+        <img src="https://i.ibb.co/jrjDYLq/react.png" alt="REACT" style="width: 40px; margin-right: 10px;">
+        <img src="https://i.ibb.co/MG8xR7v/express.jpg" alt="EXPRESS.JS" style="width: 40px; margin-right: 10px;">
         <img src="https://i.ibb.co/DMxdFmm/firebase.png" alt="FIREBASE" style="width: 40px; margin-right: 10px;">
+        <img src="https://i.ibb.co/vJ9Cq7r/vercel.jpg" alt="VERCEL" style="width: 40px; margin-right: 10px;">
         <img src="https://i.ibb.co/pbLRSVY/mongodb-logo-D13-D67-C930-seeklogo-com.png" alt="MONGODB" style="width: 40px; margin-right: 10px;">
 </div>
 
