@@ -24,8 +24,8 @@ I am an adaptive and hardworking web developer with a keen eye for detail and a 
 
 # 📜 Current Overview
 
-- 💻 I've learned HTML5, CSS, Tailwind, Javascript, React.
-- 🌱 I'm exploring Next.js.
+- 💻 I've learned HTML5, CSS, Tailwind, Javascript, React, Next.js.
+- 🌱 I'm exploring Typescript.
 - 🔎 I'm looking for a remote job opportunity
 - ✨ fun fact - I love to travel, I do Arabic Calligraphy and I can speak 3 languages(Bangla, English, Hindi)
 
